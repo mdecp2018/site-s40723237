@@ -4,36 +4,61 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
+<<<<<<< HEAD
 <loc>https://mdecp2018.github.io/site-s40723237/blog/</loc>
 <lastmod>2018-10-29T16:15:22-00:00</lastmod>
+=======
+<loc>https://mdecourse.github.io/2018fall/blog/</loc>
+<lastmod>2018-10-29T14:41:22-00:00</lastmod>
+>>>>>>> a0a34c1eceee00faa519f59671f5185471b36064
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>https://mdecp2018.github.io/site-s40723237/blog/archives.html</loc>
 <lastmod>2018-10-29T16:15:22-00:00</lastmod>
+=======
+<loc>https://mdecourse.github.io/2018fall/blog/archives.html</loc>
+<lastmod>2018-10-29T14:41:22-00:00</lastmod>
+>>>>>>> a0a34c1eceee00faa519f59671f5185471b36064
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>https://mdecp2018.github.io/site-s40723237/blog/tags.html</loc>
 <lastmod>2018-10-29T16:15:22-00:00</lastmod>
+=======
+<loc>https://mdecourse.github.io/2018fall/blog/tags.html</loc>
+<lastmod>2018-10-29T14:41:22-00:00</lastmod>
+>>>>>>> a0a34c1eceee00faa519f59671f5185471b36064
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>https://mdecp2018.github.io/site-s40723237/blog/categories.html</loc>
 <lastmod>2018-10-29T16:15:22-00:00</lastmod>
+=======
+<loc>https://mdecourse.github.io/2018fall/blog/categories.html</loc>
+<lastmod>2018-10-29T14:41:22-00:00</lastmod>
+>>>>>>> a0a34c1eceee00faa519f59671f5185471b36064
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>https://mdecp2018.github.io/site-s40723237/blog/pages/about/</loc>
 <lastmod>2018-10-15T14:25:38+08:00</lastmod>
+=======
+<loc>https://mdecourse.github.io/2018fall/blog/pages/about/</loc>
+<lastmod>2018-10-18T20:16:20+08:00</lastmod>
+>>>>>>> a0a34c1eceee00faa519f59671f5185471b36064
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
