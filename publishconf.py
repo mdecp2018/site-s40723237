@@ -13,11 +13,8 @@ from pelicanconf import *
 # 因為 publishconf.py 在 pelicanconf.py 之後, 因此若兩處有相同變數的設定, 將以較後讀入的 publishconf.py 中的設定為主.
 
 # 將所有靜態 html 檔案移到 blog 子目錄
-<<<<<<< HEAD
-SITEURL = 'https://mdecp2018.github.io/site-s40723237/blog'
-=======
-SITEURL = 'https://mdecadp2018.github.io/site-s40723237/blog
->>>>>>> a0a34c1eceee00faa519f59671f5185471b36064
+
+SITEURL = 'https://mdecp2018.github.io/site-s40723237/blog/'
 # 此設定用於將資料送到 gh-pages, 因此使用絕對 URL 設定
 RELATIVE_URLS = False
 
@@ -32,12 +29,7 @@ CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishing
-
-<<<<<<< HEAD
 DISQUS_SITENAME = "mdecp2018"
-=======
-DISQUS_SITENAME = "mdecadp2018"
->>>>>>> a0a34c1eceee00faa519f59671f5185471b36064
 DISQUS_DISPLAY_COUNTS = False
 #GOOGLE_ANALYTICS = ""
 
