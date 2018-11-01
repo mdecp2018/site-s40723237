@@ -38,8 +38,13 @@
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
+<<<<<<< HEAD
+<v t="leo.20181029153825.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20181029153825.2"><vh>投影片快捷鍵</vh></v>
+=======
 <v t="leo.20181029143406.1"><vh>快捷鍵</vh>
 <v t="leo.20181029143406.2"><vh>投影片快捷鍵</vh></v>
+>>>>>>> a0a34c1eceee00faa519f59671f5185471b36064
 </v>
 <v t="leo.20181101190824.1"><vh>各式內容引用範例</vh>
 <v t="leo.20181101190824.2" a="E"><vh>導入數學符號與方程式</vh>
@@ -138,8 +143,16 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
+<<<<<<< HEAD
 <t tx="leo.20180827201621.10">## NFU MDE 
 2018Fall site-s40723237 分組網際簡報
+=======
+<<<<<<< HEAD
+<t tx="leo.20180827201621.10">## 2018l  sire-s40723237分組網際簡報
+=======
+<t tx="leo.20180827201621.10">## 2018Fall site-s40723237 分組網際簡報
+>>>>>>> a0a34c1eceee00faa519f59671f5185471b36064
+>>>>>>> 4c0a1e53f72edf41edd259f3c7933a76fd84126d
 
 ### 虎科大機械設計工程系
 
@@ -341,7 +354,11 @@ make.start()
 
 						
 </t>
+<<<<<<< HEAD
+<t tx="leo.20181029153825.1">&lt;section data-markdown&gt;
+=======
 <t tx="leo.20181029143406.1">&lt;section data-markdown&gt;
+>>>>>>> a0a34c1eceee00faa519f59671f5185471b36064
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -350,7 +367,11 @@ make.start()
 
 						
 </t>
+<<<<<<< HEAD
+<t tx="leo.20181029153825.2"># 投影片快捷鍵
+=======
 <t tx="leo.20181029143406.2"># 投影片快捷鍵
+>>>>>>> a0a34c1eceee00faa519f59671f5185471b36064
 
 * 利用箭頭上下前後換頁
 * 按 f 鍵進入全螢幕模式 (full screen)
