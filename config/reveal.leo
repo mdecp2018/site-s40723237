@@ -24,6 +24,12 @@
 <v t="leo.20181015235238.1" a="E"><vh>封面投影片</vh>
 <v t="leo.20181015235605.1"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20181102201326.1" a="E"><vh>影片導入</vh>
+<v t="leo.20181102201337.1"><vh>影片內容</vh></v>
+</v>
+<v t="leo.20181102201527.1" a="E"><vh>影片導入</vh>
+<v t="leo.20181102201527.2"><vh>影片內容</vh></v>
+</v>
 <v t="leo.20181015235932.1" a="E"><vh>投影片1</vh>
 <v t="leo.20181015235932.2"><vh>封面投影片</vh></v>
 </v>
@@ -314,11 +320,6 @@ make.start()
 <t tx="leo.20181015235238.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
-
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
 </t>
 <t tx="leo.20181015235605.1">##NFU mde-40723237
 
@@ -419,5 +420,27 @@ make.start()
 <t tx="leo.20181017172445.2">
 
 </t>
+<t tx="leo.20181102201326.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+</t>
+<t tx="leo.20181102201337.1">##week1
+
+###建立個人網站
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ax2ZuPm3YXc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+</t>
+<t tx="leo.20181102201527.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+</t>
+<t tx="leo.20181102201527.2">##week2
+
+### 說明如何以 ShareX 取圖, 如何管理 CMSimfly 作業倉儲.
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/hEkMv2KqixY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
