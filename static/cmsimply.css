@@ -1,9 +1,10 @@
 .container {
   position: relative;
+  background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToczvQ2BC-i76_P-hU8fzbeBhGn44t5XuvN4iHHMQLIEagrRAj);
 }
 header{
-  background: #ccc;
-  padding: 20px;
+  background:url();
+  padding: 200px;
 }
 confmenu
 {
@@ -203,4 +204,3 @@ width: 195px;
 body {
   margin-bottom: 120px;
 }
-
