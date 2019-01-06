@@ -1,10 +1,9 @@
 .container {
   position: relative;
-  background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToczvQ2BC-i76_P-hU8fzbeBhGn44t5XuvN4iHHMQLIEagrRAj);
 }
 header{
-  background:url(https://www.crazy-tutorial.com/wp-content/uploads/2018/09/%E7%8B%97%E5%9C%96%E7%89%87-1200x628.jpg);
-  padding: 200px;
+  background: #ccc;
+  padding: 20px;
 }
 confmenu
 {
